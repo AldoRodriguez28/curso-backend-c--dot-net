@@ -1,0 +1,15 @@
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/bin/Debug/net8.0/ToDo.deps.json
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/bin/Debug/net8.0/ToDo.dll
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/bin/Debug/net8.0/ToDo.pdb
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfoInputs.cache
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.AssemblyInfo.cs
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.csproj.CoreCompileInputs.cache
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.sourcelink.json
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.dll
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/refint/ToDo.dll
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.pdb
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ref/ToDo.dll
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/bin/Debug/net8.0/ToDo
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/bin/Debug/net8.0/ToDo.runtimeconfig.json
+/Users/aldo/Aldo_en_mi_mac/Platzi/curso-backend-c#-dot-net/POO/curso-backend-c--dot-net/ToDo/obj/Debug/net8.0/ToDo.genruntimeconfig.cache
